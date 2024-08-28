@@ -34,7 +34,7 @@ List<PageCluster> clusters = clusterer.fit();
 ```
 ___
 ## Animation ##
-An optional .gif animation utility is included to help visualize/debug - each frame is an iteration of the clustering algorithmn.
+An optional .gif animation utility is included to help visualize/debug - each frame is an iteration of the clustering algorithm.
 ```
 ClusterAnimator animator = new ClusterAnimator("output.gif", points, animationWidth, animationHeight);
 clusterer.setListener(animator);
