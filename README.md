@@ -2,7 +2,7 @@
 ### PageFit ###
 This project is a Java implementation of a modified K-means clustering algorithm to find the least amount of 'pages' through a polyline.
 
-![MapMate](https://github.com/DM-UK/PageFit/blob/master/resources/route3midrange.gif)
+![MapMate](https://github.com/DM-UK/PageFit/blob/master/route3midrange.gif)
 
 
 
