@@ -10,7 +10,7 @@ This project is a Java implementation of a modified K-means clustering algorithm
 When printing a map route across multiple pages, it is often useful to minimize the number of pages used. Determining how best to segment the route can be non-trivial and made more complicated by the ability to rotate into landscape/portrait orientation.
 
 ___
-## Algorithmn ##
+## Algorithm ##
 Modified K-means clustering: 
 
 - Loop until all coordinates are covered by a clusters page
